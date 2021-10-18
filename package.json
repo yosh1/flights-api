@@ -27,7 +27,7 @@
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
     "moment-timezone": "^0.5.27",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.0.0",
     "path": "^0.12.7",
     "request": "^2.88.0",
     "serve-favicon": "^2.5.0"
