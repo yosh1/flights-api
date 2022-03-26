@@ -33,12 +33,12 @@
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
-    "@babel/core": "7.5.4",
-    "@babel/node": "7.5.0",
-    "@babel/preset-env": "7.5.4",
+    "@babel/core": "7.17.8",
+    "@babel/node": "7.16.8",
+    "@babel/preset-env": "7.16.11",
     "nodemon": "^1.19.4",
-    "@babel/cli": "7.5.0",
-    "@babel/register": "7.4.4",
+    "@babel/cli": "7.17.6",
+    "@babel/register": "7.17.7",
     "cz-customizable": "6.2.0"
   },
   "engines": {
